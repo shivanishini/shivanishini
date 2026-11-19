@@ -17,14 +17,11 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔭 Currently working on **Full Stack Development projects**
-- 🌱 Exploring **Artificial Intelligence, Machine Learning & Data Science**
-- 💡 Interested in building practical applications that solve real-world problems
-- ☁️ Learning about **AWS & Cloud Technologies**
-- 🎯 Focused on improving my development skills and building projects consistently
-- ⚡ I believe in learning by building
+Interested in building things, understanding how they work, and exploring what's possible with code.
+
+Currently exploring full-stack development, Python, AI, and data science — learning by building, experimenting, and improving.
 
 ---
 
