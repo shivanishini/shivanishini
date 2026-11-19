@@ -1,12 +1,10 @@
 <div align="center">
   <img src="git-profile-banner.png" width="100%" alt="Shivani - Developer Banner"/>
 </div>
-
 <br/>
 <div align="center">
 
 # Hey there, I'm Shivani 👋
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
 </div>
