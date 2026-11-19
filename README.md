@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="profile-banner.png" width="100%" alt="Shivani's Developer Banner"/>
+</div>
+
+<br/>
+<div align="center">
 
 # Hi, I'm Shivani 👋
 
