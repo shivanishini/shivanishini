@@ -42,57 +42,87 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 EMPLOX
-**Human Resource Management System**
+<h3>🏢 EMPLOX</h3>
 
-A full-stack HRMS designed to manage employee-related operations and HR workflows.
+A Human Resource Management System built to streamline employee management, attendance, and HR operations.
 
-`React` `Node.js` `Express` `MySQL`
+<br/>
 
-<a href="https://github.com/shivanishini/EMPLOX">View Repository →</a>
+<img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/shivanishini/EMPLOX">
+<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%">
 
-### 🕵️ FraudSense
-**Fraud Detection Project**
+<td width="50%" valign="top">
 
-A project focused on identifying and analyzing fraudulent patterns using data and programming.
+<h3>🧠 Sentiment Analyze</h3>
 
-`Python` `Data Analysis`
+Exploring sentiment analysis through text processing and machine learning techniques to extract meaningful insights.
 
-<a href="https://github.com/shivanishini/fraudsense">View Repository →</a>
+<br/>
+
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/shivanishini/sentiment-analyze">
+<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Sentiment Analyze
-**Sentiment Analysis**
+<h3>🔐 FraudSense</h3>
 
-A project exploring sentiment analysis and text-based insights.
+A project focused on fraud detection and analyzing patterns that may indicate suspicious activity.
 
-`Python` `Machine Learning`
+<br/>
 
-<a href="https://github.com/shivanishini/sentiment-analyze">View Repository →</a>
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-8B5CF6?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/shivanishini/fraudsense">
+<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%">
 
-### 🧪 More Projects
-I'm continuously experimenting with new technologies, building projects, and improving my coding skills.
+<td width="50%" valign="top">
 
-<a href="https://github.com/shivanishini?tab=repositories">Explore all repositories →</a>
+<h3>✨ More Projects</h3>
+
+Always experimenting, learning new technologies, and developing projects to turn ideas into practical applications.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Building-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Learning-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exploring-8B5CF6?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/shivanishini?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
