@@ -68,13 +68,10 @@ Still learning, still building, and occasionally convincing my bugs that they're
 <p>
   <i>Thank You ✨</i>
 </p>
+---
 
-## 🐍 My Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanishini/shivanishini/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanishini/shivanishini/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/shivanishini/shivanishini/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanishini&bg_color=0D1117&color=C9B6E4&line=9B7EBD&point=D8C4F1&area=true&hide_border=true" width="100%" />
 </p>
