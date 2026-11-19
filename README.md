@@ -11,7 +11,7 @@
 
 ---
 
-##  About Me ;)
+##  👽 About Me 
 
 I'm a developer interested in building practical solutions and exploring the intersection of technology and creativity.
 Curious by nature, I enjoy figuring out how things work and turning ideas into something tangible.
@@ -47,33 +47,12 @@ Still learning, still building, and occasionally convincing my bugs that they're
 - 🔹 **[FraudSense](YOUR_FRAUDSENSE_REPOSITORY_LINK)**  
   A project focused on fraud detection and identifying suspicious patterns through data analysis.
 
-- 🔹 **[Sentiment Analyze](YOUR_SENTIMENT_REPOSITORY_LINK)**  
-  A sentiment analysis project exploring text processing and extracting insights from textual data.
-
 - 🔹 **[More Projects](https://github.com/shivanishini?tab=repositories)**  
   More experiments, side projects, and things built while learning.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivanishini&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanishini&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=shivanishini&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## 📪 Let's Connect
 
 
   <a href="mailto:shubhadarshinishivani@gmail.com">
