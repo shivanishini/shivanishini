@@ -70,6 +70,7 @@ Still learning, still building, and occasionally convincing my bugs that they're
   <i>Thank You ✨</i>
 </p>
 
+---
 
 ## 📈 Contribution Activity
 
