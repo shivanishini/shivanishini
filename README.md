@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="git-profile-banner.png" width="100%" alt="Shivani - Developer Banner"/>
+</div>
+
+<br/>
+<div align="center">
 
 # Hey there, I'm Shivani 👋
 
