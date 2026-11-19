@@ -65,10 +65,11 @@ Still learning, still building, and occasionally convincing my bugs that they're
 
 
 ---
+
 <p>
   <i>Thank You ✨</i>
 </p>
----
+
 
 ## 📈 Contribution Activity
 
