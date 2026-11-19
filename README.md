@@ -11,15 +11,16 @@
 
 ---
 
-## 😸 About Me
+##  About Me ;)
 
-Interested in building things, understanding how they work, and exploring what's possible with code.
-
-Currently exploring full-stack development, Python, AI, and data science — learning by building, experimenting, and improving.
+I'm a developer interested in building practical solutions and exploring the intersection of technology and creativity.
+Curious by nature, I enjoy figuring out how things work and turning ideas into something tangible.
+Currently exploring full-stack development, Python, AI, and data science through hands-on projects.
+Still learning, still building, and occasionally convincing my bugs that they're not supposed to be there.
 
 ---
 
-## 🤖 Tech Stack
+## 👾 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB" />
@@ -74,13 +75,15 @@ Currently exploring full-stack development, Python, AI, and data science — lea
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/shivanishini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:shubhadarshinishivani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9B7EBD?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivani-shini-?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-9B7EBD?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
