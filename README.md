@@ -90,17 +90,22 @@ I'm continuously experimenting with new technologies, building projects, and imp
 </td>
 </tr>
 </table>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanishini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanishini&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivanishini&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shivanishini&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanishini&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=shivanishini&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 
 </div>
 
