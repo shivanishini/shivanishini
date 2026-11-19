@@ -75,7 +75,7 @@ Still learning, still building, and occasionally convincing my bugs that they're
 
 ## 🤝 Connect With Me
 
-<p align="center">
+
   <a href="mailto:shubhadarshinishivani@gmail.com">
     <img src="https://img.shields.io/badge/Email-9B7EBD?style=flat&logo=gmail&logoColor=white" />
   </a>
@@ -83,7 +83,7 @@ Still learning, still building, and occasionally convincing my bugs that they're
   <a href="https://www.linkedin.com/in/shivani-shini-?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-9B7EBD?style=flat&logo=linkedin&logoColor=white" />
   </a>
-</p>
+
 
 ---
 
