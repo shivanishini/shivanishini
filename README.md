@@ -65,15 +65,9 @@ Still learning, still building, and occasionally convincing my bugs that they're
 
 
 ---
-
-<div align="center">
-
-### ✨ Code. Learn. Build. Repeat. ✨
-
-<img src="https://komarev.com/ghpvc/?username=shivanishini&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
-
-</div>
----
+<p>
+  <i>Thank You ✨</i>
+</p>
 
 ## 🐍 My Contribution Graph
 
