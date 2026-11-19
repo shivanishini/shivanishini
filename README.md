@@ -44,10 +44,10 @@ Still learning, still building, and occasionally convincing my bugs that they're
 - 🔹 **[PathPAL DxCam](https://github.com/shivanishini/PATHPAL-DxCam)**  
   Cross-platform digital microscopy desktop application built using Python, PySide6, and OpenCV, featuring live camera preview, high-resolution image capture, and case-based image management.
 
-- 🔹 **[EMPLOX](YOUR_EMPLOX_REPOSITORY_LINK)**  
+- 🔹 **[EMPLOX](https://github.com/shivanishini/EMPLOX)**  
   Human Resource Management System for employee management, attendance, and HR operations — built using React, Node.js, Express, and MySQL.
 
-- 🔹 **[FraudSense](YOUR_FRAUDSENSE_REPOSITORY_LINK)**  
+- 🔹 **[FraudSense](https://github.com/shivanishini/fraudsense)**  
   A project focused on fraud detection and identifying suspicious patterns through data analysis.
 
 - 🔹 **[More Projects](https://github.com/shivanishini?tab=repositories)**  
