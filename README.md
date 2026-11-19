@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
 
-# Hi, I'm Shivani 👋
+# Hey there, I'm Shivani 👋
 
 ### Python Developer | Full Stack Developer | AI & Data Science Enthusiast
 
@@ -17,7 +17,7 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 ---
 
-## About Me
+## 😸 About Me
 
 Interested in building things, understanding how they work, and exploring what's possible with code.
 
@@ -25,68 +25,38 @@ Currently exploring full-stack development, Python, AI, and data science — lea
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mysql,html,css,git,github,vscode&perline=6" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonwebservices&logoColor=FF9900" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+- 🔹 **[EMPLOX](YOUR_EMPLOX_REPOSITORY_LINK)**  
+  Human Resource Management System for employee management, attendance, and HR operations — built using React, Node.js, Express, and MySQL.
 
-### 🏢 EMPLOX
-**Human Resource Management System**
+- 🔹 **[FraudSense](YOUR_FRAUDSENSE_REPOSITORY_LINK)**  
+  A project focused on fraud detection and identifying suspicious patterns through data analysis.
 
-A full-stack HRMS designed to manage employee-related operations and HR workflows.
+- 🔹 **[Sentiment Analyze](YOUR_SENTIMENT_REPOSITORY_LINK)**  
+  A sentiment analysis project exploring text processing and extracting insights from textual data.
 
-`React` `Node.js` `Express` `MySQL`
-
-<a href="https://github.com/shivanishini/EMPLOX">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 🕵️ FraudSense
-**Fraud Detection Project**
-
-A project focused on identifying and analyzing fraudulent patterns using data and programming.
-
-`Python` `Data Analysis`
-
-<a href="https://github.com/shivanishini/fraudsense">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Sentiment Analyze
-**Sentiment Analysis**
-
-A project exploring sentiment analysis and text-based insights.
-
-`Python` `Machine Learning`
-
-<a href="https://github.com/shivanishini/sentiment-analyze">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 🧪 More Projects
-I'm continuously experimenting with new technologies, building projects, and improving my coding skills.
-
-<a href="https://github.com/shivanishini?tab=repositories">Explore all repositories →</a>
-
-</td>
-</tr>
-</table>
+- 🔹 **[More Projects](https://github.com/shivanishini?tab=repositories)**  
+  More experiments, side projects, and things built while learning.
 
 ---
 
@@ -105,16 +75,6 @@ I'm continuously experimenting with new technologies, building projects, and imp
 <img src="https://streak-stats.demolab.com/?user=shivanishini&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- 🤖 AI & Machine Learning
-- 📈 Data Science
-- ☁️ Amazon Web Services (AWS)
-- 🌐 Full Stack Development
-- 🧠 Problem Solving & Software Development
 
 ---
 
