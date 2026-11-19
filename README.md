@@ -41,6 +41,9 @@ Still learning, still building, and occasionally convincing my bugs that they're
 
 ## 🚀 Featured Projects
 
+- 🔹 **[PathPAL DxCam](https://github.com/shivanishini/PATHPAL-DxCam)**  
+  Cross-platform digital microscopy desktop application built using Python, PySide6, and OpenCV, featuring live camera preview, high-resolution image capture, and case-based image management.
+
 - 🔹 **[EMPLOX](YOUR_EMPLOX_REPOSITORY_LINK)**  
   Human Resource Management System for employee management, attendance, and HR operations — built using React, Node.js, Express, and MySQL.
 
